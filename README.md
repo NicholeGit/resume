@@ -4,10 +4,8 @@ resume
 我的简历
 
 ==========================
-
 以下是模板
 （来自https://github.com/geekcompany/ResumeSample/blob/master/README.md ）
-
 =================================
 
 PHP程序员简历模板
